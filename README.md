@@ -1,6 +1,6 @@
 Oracle PeopleSoft PS_TOKEN Extractor
 ====================================
-Created by Sayed Hamzah (Twitter: @xxbaemaxx)<br>
+Created by Sayed Hamzah (Twitter: @xxxbaemaxxx)<br>
 
 Overview
 --------
