@@ -1,0 +1,12 @@
+Uuid: df04d7d1af004ed6b50c555c4920232d
+ExtensionType: 2
+Name: PeopleSoft Token Extractor
+RepoName: peoplesoft-token-extractor
+ScreenVersion: 1.0
+SerialVersion: 0
+MinPlatformVersion: 0
+ProOnly: False
+Author: Sayed Hamzah
+ShortDescription: TODO
+EntryPoint: pstoken.py
+BuildCommand: 
