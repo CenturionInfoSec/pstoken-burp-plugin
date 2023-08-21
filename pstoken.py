@@ -269,7 +269,7 @@ class BurpExtender(IBurpExtender, ITab, IContextMenuFactory):
 
     
     def getTabCaption(self):
-        return "PSTOKEN-JYTHON"
+        return "PeopleSoft Token Extractor"
     
     def getUiComponent(self):
         return self._splitpane
@@ -297,7 +297,7 @@ class BurpExtender(IBurpExtender, ITab, IContextMenuFactory):
             self._left_tb1.setText(res)
 
         menuList = []
-        item = JMenuItem("Send to PSTOKEN",actionPerformed=sendValue)
+        item = JMenuItem("Send to PeopleSoft Token Extractor",actionPerformed=sendValue)
         menuList.append(item)
 
         return menuList
